@@ -20,7 +20,7 @@ Decide where to put it:
 % mkdir ~/GitHub
 % cd ~/GitHub
 ```
-Clone this repo: 
+Clone this repo into the directory you created: 
 In GitHub Desktop, choose File | Clone Repository: https://github.com/danielpoon/wordpress-docker.git
 
 To deploy, in a terminal:
