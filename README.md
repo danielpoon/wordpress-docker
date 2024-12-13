@@ -7,19 +7,18 @@ This repo was created to allow developers (me) to deploy Wordpress on their MacB
 
 # How?
 
-Install Docker Desktop for Mac: https://docs.docker.com/desktop/setup/install/mac-install/
+1. Install Docker Desktop for Mac: https://docs.docker.com/desktop/setup/install/mac-install/
 
-Install GitHub Desktop (easier): https://desktop.github.com/download/
+2. Install GitHub Desktop (easier): https://desktop.github.com/download/
 
-Decide where to put it:
+3. Decide where to put it:
 ```
 % mkdir ~/GitHub
 % cd ~/GitHub
 ```
-Clone this repo into the directory you created: 
-In GitHub Desktop, choose File | Clone Repository: https://github.com/danielpoon/wordpress-docker.git
+4. Clone this repo into the directory you created. In GitHub Desktop, choose File | Clone Repository: https://github.com/danielpoon/wordpress-docker.git
 
-To deploy, in a terminal:
+5. To deploy, in a terminal:
 ```
 % cd ~/GitHub
 % ./setup.sh
