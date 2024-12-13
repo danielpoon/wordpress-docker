@@ -24,12 +24,15 @@ This repo was created to allow developers (me) to deploy Wordpress on their MacB
 % ./setup.sh
 ```
 
-That's it !!! You can access Wordpress using: http://localhost:8000
-
+That's it !!! You can now access your local Wordpress using: 
+```
+http://localhost:8000
+```
+The WP data such as posts or pages, along with the DB data will persist and stored inside the container.
 
 # Wordpress Plugins
 
-Some of the plugins I am using:
+After your install, you can add your themes and plugins. Some of the plugins that I am using:
 
 - Backup Migration - free backup/migration for sites < 2Gb in export size
 - Classic Widgets with Block-based Widgets - easier for WP widget manipulation
@@ -45,6 +48,8 @@ Some of the plugins I am using:
 
 # Support Commands
 
+Here's some commands for your ongoing maintenance.
+
 Check if its up: 
 ```docker-compose ps```
 
@@ -57,11 +62,12 @@ Stop container:
 Update image: 
 ```docker-compose pull```
 
-More info: https://flywp.com/blog/8593/local-wordpress-development-environment/
+More info on WP on Docker: 
 
-Or: https://catalins.tech/how-to-run-wordpress-locally-on-macos-with-docker-compose/
+* https://flywp.com/blog/8593/local-wordpress-development-environment/
+* https://catalins.tech/how-to-run-wordpress-locally-on-macos-with-docker-compose/
 
-# Start from Scratch
+# Starting from Scratch
 
 The wordpress and DB data will persist in your local drive as expected. But there maybe times when you want to wipe all the data and start from scratch:
 
