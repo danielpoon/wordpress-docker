@@ -2,6 +2,7 @@
 
 This repo was created to allow developers (me) to deploy Wordpress on their MacBook via Docker quickly and easily. It literally gets your vanilla WP install on your MacBook ready in less than a minute. What's cool is when I was restoring data and I had to do this several iterations, it takes seconds to blow away everything and seconds to bring it all back in one clean slate.
 
+
 <img width="1225" alt="Screenshot" src="https://github.com/user-attachments/assets/b313ca2a-6b14-428f-98b5-e880594912ca" />
 
 # How?
