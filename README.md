@@ -29,10 +29,11 @@ Some of the plugins I am using:
 
 - Backup Migration
 - Classic Widgets with Block-based Widgets
-- Download plugin (to download plugin as files for archive)
+- Download plugin - to download plugin as files for archive 
   https://wordpress.org/plugins/download-plugin/
 - File Manager
 - LiteSpeed Cache
+- Login with Ajax - allow login to redirect to blog home page
 - LoginPress - customize login page
 - Max upload filesize - allow bigger images to be uploaded/processed
 - Smush Image Optimization - Image upload and optimize current objects
