@@ -27,10 +27,13 @@ That's it !!! You can access Wordpress using: http://localhost:8000
 
 Check if its up: 
 ```docker-compose ps```
+
 Start container: 
 ```docker-compose up -d```
+
 Stop container: 
 ```docker-compose down```
+
 Update image: 
 ```docker-compose pull```
 
