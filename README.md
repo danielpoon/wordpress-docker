@@ -29,6 +29,8 @@ Some of the plugins I am using:
 
 - Backup Migration
 - Classic Widgets with Block-based Widgets
+- Download plugin (to download plugin as files for archive)
+  https://wordpress.org/plugins/download-plugin/
 - File Manager
 - LiteSpeed Cache
 - LoginPress - customize login page
