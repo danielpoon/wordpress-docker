@@ -33,6 +33,8 @@ Some of the plugins I am using:
 - WP Extended Search - better search
 - EWWW Image Optimizer - make images smaller
 - Max upload filesize - allow bigger images to be uploaded/processed
+- Backup Migration
+- Smush - Image upload and current objects optimization
 
 # Support Commands
 
@@ -61,8 +63,8 @@ The wordpress and DB data will persist in your local drive as expected. But ther
 % docker container ls
 % docker container rm -f <container ID> <- repeat until all containers have been deleted
 % docker volume ls
-% docker volume rm wordpress_db_data
-% docker volume rm wordpress_wordpress_data
+% docker volume rm wordpress-docker_db_data
+% docker volume rm wordpress-docker_wordpress_data
 % docker image ls
 % docker image rm -f <container ID> <- repeat until all containers have been deleted
 
