@@ -16,14 +16,14 @@ Install Git:
 Install GitHub Desktop (easier): https://desktop.github.com/download/
 
 Decide where to put it:
-cd
+```
 % mkdir ~/GitHub
 % cd ~/GitHub
-
+```
 Clone this repo: 
 In GitHub Desktop, choose File | Clone Repository: https://github.com/danielpoon/wordpress-docker.git
 
-In a terminal
+To deploy, in a terminal:
 ```
 % cd ~/GitHub
 % ./setup.sh
