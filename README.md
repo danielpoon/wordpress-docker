@@ -9,13 +9,6 @@ This repo was created to allow developers (me) to deploy Wordpress on their MacB
 
 Install Docker Desktop for Mac: https://docs.docker.com/desktop/setup/install/mac-install/
 
-Install Homebrew: https://brew.sh/ and setup Homebrew
-
-Install Git: 
-```
-% brew install git
-```
-
 Install GitHub Desktop (easier): https://desktop.github.com/download/
 
 Decide where to put it:
