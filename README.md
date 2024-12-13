@@ -110,7 +110,7 @@ Put this repo inside OneDrive and have it stored locally and synced/backup onlin
 I didn't want to bore you with a manifesto in the beginning, so I will leave it to the end for people who maybe interested.
 There are many reasons to host WP locally. Couple of main ones for me were:
 
-* Security: I was getting 100+ failed logins each day. I didn't want to keep dealing with security plugins and worry about when my test site would be hacked. One time, I had a DDoS attack that costed $250 of bandwidth charge.
-* Cost: Sure everyone can do a Digital Ocean (DO) site but paying $20/month for Dev isn't really worth it when your MacBook is sitting here idle. But you do want to spin one up faster than DO and have all the backup and safe guard in place. On that end, I let the install sit on OneDrive and won't have to worry about any hardware failure.
+* Security: I was getting 100+ failed logins each day. I didn't want to keep dealing with security plugins and worry about when my test site would be hacked. One time, I had a DDoS attack that resulted in $250 of bandwidth charges.
+* Cost: Sure everyone can do a Digital Ocean (DO) site but paying $20/month for Dev and Dev contents isn't really worth it when your MacBook is sitting here idle. But you do want to spin one up faster than DO and have all the backup and safe guard in place. On that end, I let the install sit on OneDrive and won't have to worry about any hardware failure.
 * Docker: Containers are life savers, they are much better than VMs because you just need to define a simple dockerfile and docker-compose.yml (what you get in this repo) and you can spin them up in seconds. Space wise, you won't need a 30Gb VM that carries the OS and everything else that makes it hard to take along.
 
