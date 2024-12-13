@@ -75,3 +75,7 @@ If you want to get inside the container and make some changes:
 2. % docker container exec -it 2d3cf8912265 bash
 ```
 
+# Other Ideas
+
+Put this repo inside OneDrive and have it stored locally and synced/backup online across devices
+
