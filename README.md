@@ -9,7 +9,7 @@ This repo was created to allow developers (me) to deploy Wordpress on their MacB
 
 1. Install Docker Desktop for Mac: https://docs.docker.com/desktop/setup/install/mac-install/
 
-2. Install GitHub Desktop (easier): https://desktop.github.com/download/
+2. Install GitHub Desktop: https://desktop.github.com/download/
 
 3. Decide where to put it:
 ```
