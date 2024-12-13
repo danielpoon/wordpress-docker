@@ -27,14 +27,14 @@ That's it !!! You can access Wordpress using: http://localhost:8000
 
 Some of the plugins I am using:
 
-- php_info() - show PHP info
-- LiteSpeed Cache - faster page refresh
-- LoginPress - customize login page
-- WP Extended Search - better search
-- EWWW Image Optimizer - make images smaller
-- Max upload filesize - allow bigger images to be uploaded/processed
 - Backup Migration
-- Smush - Image upload and current objects optimization
+- Classic Widgets with Block-based Widgets
+- File Manager
+- LiteSpeed Cache
+- LoginPress - customize login page
+- Max upload filesize - allow bigger images to be uploaded/processed
+- Smush Image Optimization - Image upload and optimize current objects
+- WP Extended Search
 
 # Support Commands
 
