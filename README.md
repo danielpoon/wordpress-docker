@@ -13,7 +13,9 @@ Install Git:
 % brew install git
 ```
 Install Git Desktop: https://desktop.github.com/download/
-Clone this repo with File | Clone Repository: https://github.com/danielpoon/wordpress-docker.git
+
+Clone this repo: 
+File | Clone Repository: https://github.com/danielpoon/wordpress-docker.git
 ```
 % ./setup.sh
 ```
