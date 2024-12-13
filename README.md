@@ -58,11 +58,11 @@ The wordpress and DB data will persist in your local drive as expected. But ther
 
 ```
 % docker-compose down
+% docker container ls
+% docker container rm -f <container ID> <- repeat until all containers have been deleted
 % docker volume ls
 % docker volume rm wordpress_db_data
 % docker volume rm wordpress_wordpress_data
-% docker container ls
-% docker container rm -f <container ID> <- repeat until all containers have been deleted
 % docker image ls
 % docker image rm -f <container ID> <- repeat until all containers have been deleted
 
