@@ -92,8 +92,14 @@ If you want to get inside the container and make some changes:
 ```
 1. % docker-compose ps
    Note down the container ID
-2. % docker container exec -it 2d3cf8912265 bash
+2. % docker container exec -it <container ID> /bin/bash
 ```
+Once inside the container, Vim and Nano has been installed to allow you to edit any files. Some useful locations inside the container:
+
+* PHP: /usr/local/etc/php
+* MySQL: /var/lib/mysql
+* Wordpress: /var/www/html
+* Wordpress Media: /var/www/html/wp-content/uploads
 
 # Other Ideas
 
